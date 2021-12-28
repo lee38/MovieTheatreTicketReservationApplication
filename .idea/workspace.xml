@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc49a59a-0117-4d0e-bb7d-43977f1c35b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kwqI1fKvBSxTAeyAXrCbhgpD23" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="256" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="340" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Boundaries/TicketPaymentBoundaries" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Boundaries/TicketPaymentBoundaries/PaymentGUI" />
+      <recent name="$PROJECT_DIR$/src/Boundaries/TicketPaymentBoundaries/CancelTicketRegisteredGUI" />
+      <recent name="$PROJECT_DIR$/src/Boundaries/TicketPaymentBoundaries/CancelTicketOrdinaryGUI" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginLogoutController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controllers.UserControllers.LoginLogoutController" />
+      <module name="ENSF619_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controllers.UserControllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginLogoutController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc49a59a-0117-4d0e-bb7d-43977f1c35b8" name="Default Changelist" comment="" />
+      <created>1606621918099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606621918099</updated>
+      <workItem from="1606621919209" duration="14481000" />
+      <workItem from="1606663004690" duration="11416000" />
+      <workItem from="1606675803593" duration="5280000" />
+      <workItem from="1606683410490" duration="4614000" />
+      <workItem from="1606708441455" duration="4000" />
+      <workItem from="1606708542186" duration="812000" />
+      <workItem from="1606758426894" duration="74000" />
+      <workItem from="1606790308994" duration="603000" />
+      <workItem from="1606790994335" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="445" key="#com.intellij.ide.util.MemberChooser" timestamp="1606680525408">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="453" y="445" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1606680525408" />
+    <state x="377" y="528" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606665035769">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="377" y="528" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1606665035769" />
+    <state x="298" y="633" width="689" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606664556438">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="298" y="633" width="689" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.2560.1417@0.23.2560.1417" timestamp="1606664556438" />
+    <state x="653" y="483" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606677205255">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="653" y="483" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1606677205255" />
+    <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606664909937">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1606664909937" />
+    <state x="1065" y="517" key="#com.intellij.uiDesigner.palette.ComponentItemDialog" timestamp="1606675684711">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1065" y="517" key="#com.intellij.uiDesigner.palette.ComponentItemDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1606675684711" />
+    <state x="141" y="370" key="SettingsEditor" timestamp="1606699068774">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="141" y="370" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1606699068774" />
+    <state x="1143" y="533" key="UIDesigner.ListEditorDialog" timestamp="1606667253883">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1143" y="533" key="UIDesigner.ListEditorDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1606667253883" />
+    <state x="432" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606667905951">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="432" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1417@0.23.2560.1417" timestamp="1606667905951" />
+    <state x="1035" y="618" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1606677432660">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1035" y="618" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1606677432660" />
+    <state x="1280" y="23" width="1280" height="1417" key="dock-window-1" timestamp="1606685158731">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1280" y="23" width="1280" height="1417" key="dock-window-1/0.23.2560.1417@0.23.2560.1417" timestamp="1606685158731" />
+    <state x="1280" y="23" width="1280" height="1417" key="dock-window-2" timestamp="1606664873119">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1280" y="23" width="1280" height="1417" key="dock-window-2/0.23.2560.1417@0.23.2560.1417" timestamp="1606664873119" />
+    <state x="1403" y="23" width="903" height="1398" key="dock-window-3" timestamp="1606665470703">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1403" y="23" width="903" height="1398" key="dock-window-3/0.23.2560.1417@0.23.2560.1417" timestamp="1606665470703" />
+    <state x="1280" y="23" width="1280" height="1417" key="dock-window-4" timestamp="1606673132399">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1280" y="23" width="1280" height="1417" key="dock-window-4/0.23.2560.1417@0.23.2560.1417" timestamp="1606673132399" />
+    <state x="0" y="354" key="new project wizard" timestamp="1606624865929">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="0" y="354" key="new project wizard/0.23.2560.1417@0.23.2560.1417" timestamp="1606624865929" />
+    <state x="305" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1606675875084">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="305" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1606675875084" />
+  </component>
+</project>
