@@ -22,3 +22,6 @@
 - Context diagrams
 - Data flow diagrams
 - Entity relationship diagrams
+
+#### Notes:
+- Design diagrams are in the deliverables folder
